@@ -1,12 +1,12 @@
 # Weight_Tracker
 vue js using Weight Tracker
 
-# Frist Step: 
+#1: 
 clone Repo
 
-# Second Step: 
+#2: 
 npm install 
 
-# thord Step:
+#3:
 npm run dev 
 
